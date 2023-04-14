@@ -1,0 +1,17 @@
+Users
+-Register
+-Login
+-Submit
+
+Articles
+-Submit
+-Comment
+-Rate/Like
+
+Administration
+-Pending Articles
+-Add/Edit/Delete Categories
+-Manage Users
+
+Marketing
+-Automatically post new content to twitter/reddit
